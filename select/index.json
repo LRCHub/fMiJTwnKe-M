@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "恋をしているみたいなの",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-02-08T11:51:00.658240Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋をしているみたいなの",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/01_恋をしているみたいなの_『ユイカ』.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋をしているみたいなの",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/02_恋をしているみたいなの_『ユイカ』.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋をしているみたいなの",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_恋をしているみたいなの_『ユイカ』.txt"
+    }
+  ]
+}
